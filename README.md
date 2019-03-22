@@ -1,30 +1,17 @@
-If you want to create your own bot using my code, follow the steps below.
-
-Download Node.js
-
-input- mkdir 'desired bot name'  example: mdkir Jax 
-
-Open CMD, change directory to your desired folder
-
-input- npm init
-
-change whatever you want
-
-Run this command in CMD to import the discord.js files
-
-npm install discord.js
-
-open desired code editor
-
-download the files and put them into the discord bot folder
-
-open editor and edit what you want to change
-
-open terminal to make sure bot is running
-
-type- node index.js
-
-you should see 'Ready!' 
-
-test bot using prefix - example: !gen
+## Follow these steps to host this bot
+ * Download `Node.js`
+ * Input `mkdir "desired_bot_name"`
+    * Example: mkdir Jax
+ * Open CMD, change directory to the desired folder
+ * Input `npm init`
+    * Change anything
+ * Input `install discord.js` in CMD to import the discord.js files
+ * Open any code editor
+ * Download the files into the discord bot folder
+ * Open editor and edit desired changes
+ * Open termial, ensure the bot is running
+ * Input `node index.js`
+    * `Ready!` should be displayed
+ * Test bot using prefix `!`
+    * Example: `!gen`
 
