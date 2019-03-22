@@ -6,6 +6,10 @@ input- mkdir 'desired bot name'  example: mdkir Jax
 
 Open CMD, change directory to your desired folder
 
+input- npm init
+
+change whatever you want
+
 Run this command in CMD to import the discord.js files
 
 npm install discord.js
